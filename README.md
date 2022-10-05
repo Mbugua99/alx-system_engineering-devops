@@ -1,1 +1,1 @@
-0x00 shell basics
+ ls : Display the contents list of your current directory.
